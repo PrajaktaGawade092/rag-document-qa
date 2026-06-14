@@ -80,15 +80,19 @@ An AI-powered web app that lets you upload any PDF and ask questions about it in
 
 
 1.Clone this repository
+
 `git clone https://github.com/PrajaktaGawade092/rag-document-qa.git`
 
 2. Install dependencies
+
  `pip install -r requirements.txt`
   
-4. Create a .env file and add your Hugging Face token*
+4. Create a .env file and add your Hugging Face token
+
  `HF_TOKEN=your_huggingface_token_here`
    
 5. Run the app
+   
 `streamlit run app.py`
 
 ---
