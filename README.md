@@ -6,7 +6,7 @@ An AI-powered web app that lets you upload any PDF and ask questions about it in
 
 
 
-🔗 Live Demo:[Click here to try the app](your-streamlit-url-here)
+🔗 Live Demo:[Click here to try the app]([your-streamlit-url-here](https://rag-document-app-ciierwkgb86ovcrnwh58lr.streamlit.app/))
 
 
 
