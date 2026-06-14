@@ -80,12 +80,25 @@ An AI-powered web app that lets you upload any PDF and ask questions about it in
 
 
 1.Clone this repository
+`git clone https://github.com/PrajaktaGawade092/rag-document-qa.git`
+
 2. Install dependencies
-3. Create a .env file
-4. Run the app
+ `pip install -r requirements.txt`
+  
+4. Create a .env file and add your Hugging Face token*
+ `HF_TOKEN=your_huggingface_token_here`
+   
+5. Run the app
+`streamlit run app.py`
 
-
+---
  📁 Project Structure
+
+ - `app.py` — Main Streamlit application
+- `requirements.txt` — Python dependencies
+- `.env` — API keys (not uploaded to GitHub)
+- `.gitignore` — Git ignore rules
+- `README.md` — Project documentation
 
  ---
 
