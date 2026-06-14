@@ -34,10 +34,6 @@ An AI-powered web app that lets you upload any PDF and ask questions about it in
 
 
 
-!\[RAG Pipeline](https://raw.githubusercontent.com/your-username/rag-document-qa/main/rag\_pipeline.png)
-
-
-
 \---
 
 
