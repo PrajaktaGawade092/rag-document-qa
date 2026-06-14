@@ -80,4 +80,19 @@ An AI-powered web app that lets you upload any PDF and ask questions about it in
 
 
 1.Clone this repository
+2. Install dependencies
+3. Create a .env file
+4. Run the app
 
+
+ 📁 Project Structure
+
+ ---
+
+💡 Key Concepts Demonstrated
+
+- RAG (Retrieval-Augmented Generation) — combining search with LLM generation
+- Vector Embeddings — converting text to meaningful numbers for similarity search
+- FAISS — efficient similarity search at scale
+- LangChain — framework for building LLM-powered applications
+- Prompt Engineering — system prompts to constrain LLM to document context only
