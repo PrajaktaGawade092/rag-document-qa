@@ -6,7 +6,7 @@ An AI-powered web app that lets you upload any PDF and ask questions about it in
 
 
 
-🔗 \*\*Live Demo:\*\* \[Click here to try the app](your-streamlit-url-here)
+🔗 Live Demo:[Click here to try the app](your-streamlit-url-here)
 
 
 
@@ -14,11 +14,11 @@ An AI-powered web app that lets you upload any PDF and ask questions about it in
 
 
 
-\## 🧠 How it Works
+🧠 How it Works
 
 
 
-1\. \*\*Upload a PDF\*\* — any document, resume, research paper, etc.
+1.Upload a PDF — any document, resume, research paper, etc.
 
 2\. \*\*Text is split into chunks\*\* — using LangChain's RecursiveCharacterTextSplitter
 
