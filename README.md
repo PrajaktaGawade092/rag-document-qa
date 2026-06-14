@@ -1,4 +1,4 @@
-\# 📄 Document Q\&A using RAG (Retrieval-Augmented Generation)
+📄 Document Q\&A using RAG (Retrieval-Augmented Generation)
 
 
 
