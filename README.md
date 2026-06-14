@@ -67,23 +67,14 @@ An AI-powered web app that lets you upload any PDF and ask questions about it in
 
 
 | Tool | Purpose |
-
 |------|---------|
-
 | Python | Core language |
-
 | Streamlit | Web interface |
-
 | LangChain | RAG pipeline framework |
-
 | FAISS | Vector database |
-
 | sentence-transformers | Text embeddings |
-
 | Hugging Face API | LLM (Kimi-K2-Instruct) |
-
 | PyPDF | PDF reading |
-
 
 
 \---
