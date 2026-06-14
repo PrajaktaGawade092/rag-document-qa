@@ -20,45 +20,43 @@ An AI-powered web app that lets you upload any PDF and ask questions about it in
 
 1.Upload a PDF — any document, resume, research paper, etc.
 
-2\. \*\*Text is split into chunks\*\* — using LangChain's RecursiveCharacterTextSplitter
+2.Text is split into chunks — using LangChain's RecursiveCharacterTextSplitter
 
-3\. \*\*Chunks are converted to embeddings\*\* — using sentence-transformers (all-MiniLM-L6-v2)
+3.Chunks are converted to embeddings — using sentence-transformers (all-MiniLM-L6-v2)
 
-4\. \*\*Stored in FAISS\*\* — a fast vector database for similarity search
+4.Stored in FAISS — a fast vector database for similarity search
 
-5\. \*\*You ask a question\*\* — it gets converted to an embedding too
+5.You ask a question — it gets converted to an embedding too
 
-6\. \*\*FAISS finds relevant chunks\*\* — based on semantic similarity
+6.FAISS finds relevant chunks — based on semantic similarity
 
-7\. \*\*LLM generates the answer\*\* — using only the relevant chunks as context
-
-
-
-\---
-
-
-
-\## ✨ Features
-
-
-
-\- 📤 Upload any PDF document
-
-\- 🔍 Semantic search using FAISS vector database
-
-\- 🤖 AI-powered answers using Kimi-K2-Instruct LLM
-
-\- 👁️ Transparent — shows which chunks were used to generate the answer
-
-\- 🆓 Completely free (Hugging Face free tier)
+7.LLM generates the answer — using only the relevant chunks as context
 
 
 
 \---
 
 
+ ✨ Features
 
-\## 🛠️ Tech Stack
+
+
+ 📤 Upload any PDF document
+
+ 🔍 Semantic search using FAISS vector database
+
+ 🤖 AI-powered answers using Kimi-K2-Instruct LLM
+
+ 👁️ Transparent — shows which chunks were used to generate the answer
+
+ 🆓 Completely free (Hugging Face free tier)
+
+
+
+\---
+
+
+ 🛠️ Tech Stack
 
 
 
@@ -77,9 +75,9 @@ An AI-powered web app that lets you upload any PDF and ask questions about it in
 
 
 
-\## ⚙️ Setup Instructions
+⚙️ Setup Instructions
 
 
 
-1\. \*\*Clone this repository\*\*
+1.Clone this repository
 
